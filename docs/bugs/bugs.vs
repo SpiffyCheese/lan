@@ -1,0 +1,1 @@
+Fullscreen can't be closed when toggled on via F11.
