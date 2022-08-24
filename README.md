@@ -1,3 +1,4 @@
+#lan
 Install:
 \lan\lan\server
 npm install
